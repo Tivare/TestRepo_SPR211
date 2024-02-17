@@ -1,0 +1,1 @@
+double prod(double a, double b);
